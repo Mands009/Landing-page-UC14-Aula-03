@@ -1,0 +1,39 @@
+html {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Roboto";
+}
+    
+body {
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+footer {
+    background-color: #f2f2f2;
+    border-top: solid 2px #e4e4e4;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer ul li {
+    display: inline;
+    color: #666666;
+    font-size: 14px;
+    padding: 12px;
+}
+
+#veia {
+    width: auto;
+    height: auto;
+    background-color: #f34347;
+}
+
+#b1 {
+    margin-right: 25px;
+    padding: 7px 15px;
+    border-radius: 3px;
+    font-weight: bold;
+}
